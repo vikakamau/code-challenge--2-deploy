@@ -20,6 +20,6 @@
   "homepage": "https://github.com/vikakamau/code-challenge--2-deploy#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "json-server": "o.17.0"
+    "json-server": "0.17.0"
   }
 }
